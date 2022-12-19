@@ -4,4 +4,8 @@
 
 ## 0.0.2
 
-* implement loading dialog.
+* implement custom loading dialog.
+
+## 0.0.3
+
+* implement custom appbar.
